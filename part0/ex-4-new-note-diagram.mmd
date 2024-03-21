@@ -2,7 +2,7 @@ sequenceDiagram
 participant browser
 participant server
 
-    browser->>server: POST https://studies.cs.helsinki.fi/exampleapp/notes - PAYLOAD note: New note
+    browser->>server: POST https://studies.cs.helsinki.fi/exampleapp/notes - PAYLOAD { "note" : "New note" }
     activate server
     server-->>browser: Redirect to /exampleapp/notes
     deactivate server
