@@ -1,1 +1,1 @@
-# Phonebook info exercises 2.6 - 2.10
+# Phonebook - Exercises 2.6 - 2.17

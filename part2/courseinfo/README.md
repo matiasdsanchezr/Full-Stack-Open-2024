@@ -1,1 +1,1 @@
-# Course info exercises 2.1 - 2.5
+# Course info - Exercises 2.1 - 2.5
